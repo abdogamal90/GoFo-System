@@ -23,7 +23,6 @@ public class gofo {
 
     public static void main(String[] args) {
 
-        Scanner input = new Scanner(System.in);
 
         System.out.println("********************Welcome to the GOFO APPLICATION!********************");
         System.out.println("              Please Select From The Following Options:               ");
