@@ -26,7 +26,6 @@ public class playground {
     public playground(){
 
 
-        System.out.println("Enter playground Name:");
         this.playgroundName = input.nextLine();
         System.out.println("Enter owner Name:");
         this.ownerName = input.nextLine();
