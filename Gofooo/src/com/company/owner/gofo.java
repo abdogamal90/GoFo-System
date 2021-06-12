@@ -25,9 +25,7 @@ public class gofo {
         Scanner input = new Scanner(System.in);
 
 
-        System.out.println("********************Welcome to the GOFO APPLICATION!********************");
-        System.out.println("              Please Select From The Following Options:               ");
-        System.out.println("**********************************************************************");
+       
         playgrounds ob = new playgrounds();
         players obplayer = new players();
         int choice;
